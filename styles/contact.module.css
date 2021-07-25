@@ -1,0 +1,35 @@
+
+
+.box{
+    display: flex;
+    background: #1C75BA;
+    height: 530px;
+}
+
+.leftContainer{
+    color: white;
+    /* margin-left: 100px;
+    margin-top: 150px; */
+    /* align-items: center; */
+    font-size: 48px;
+
+}
+
+.timeInfo{
+    /* margin-top: 90px; */
+    font-size: 20px;
+    font-weight: 100;
+    color: #fff;
+}
+
+.text{
+    /* margin-top: 90px;
+    margin-left: 120px; */
+    padding-left: 40px;
+    color: #fff;
+}
+
+.textL{
+    margin-top: 90px;
+    margin-left: 70px;
+}

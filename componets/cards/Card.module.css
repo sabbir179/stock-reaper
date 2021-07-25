@@ -1,0 +1,42 @@
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20%;
+    content:' ';
+    position: absolute;
+    top: 410px;
+    z-index: 400;
+    /* position: relative;
+    
+    justify-content: space-between;
+    padding: 0px 20px; */
+}
+
+.cBox{
+    width: 30%;
+    background: #fff ; 
+    margin-bottom: 20px;  
+    border-radius: 5px;
+    box-shadow: 2px 5px 2px  #b9b8b8;
+    
+    
+    
+}
+
+.cHeader{
+    height: auto;
+    text-align: left;
+    padding: 10px 20px;
+    background: #1C75BA;
+    color: #fff;
+    font-size: 27px;
+}
+
+.cbody{
+    padding: 30px 20px;
+    text-align: left;
+    font-size: 16px;
+}
